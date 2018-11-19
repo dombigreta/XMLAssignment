@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books xmlns="books"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="books  book.xsd ">
+    <book Id="1234">
+        <title></title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
+        <amount-available>3</amount-available>
+        <price></price>
+    </book>
+
+    <book Id="2345">
+        <title></title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
+        <amount-available>2</amount-available>
+        <price></price>
+    </book>
+
+    <book Id="3456">
+        <title></title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
+        <amount-available>10</amount-available>
+        <price></price>
+    </book>
+
+    <book Id="4567">
+        <title></title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
+        <amount-available>7</amount-available>
+        <price></price>
+    </book>
+
+    <book Id="5678">
+        <title></title>
+        <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
+        <amount-available>1</amount-available>
+        <price></price>
+    </book>
+</books>
