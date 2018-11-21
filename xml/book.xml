@@ -3,37 +3,37 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="books  book.xsd ">
     <book Id="1234">
-        <title></title>
+        <title>Maradj velem</title>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
         <amount-available>3</amount-available>
-        <price></price>
+        <price>1200</price>
     </book>
 
     <book Id="2345">
-        <title></title>
+        <title>Beépített hercegnő </title>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
         <amount-available>2</amount-available>
-        <price></price>
+        <price>1000</price>
     </book>
 
     <book Id="3456">
-        <title></title>
+        <title>Enyém a főszerep</title>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
         <amount-available>10</amount-available>
-        <price></price>
+        <price>4300</price>
     </book>
 
     <book Id="4567">
-        <title></title>
+        <title>Csók Párizsban</title>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
         <amount-available>7</amount-available>
-        <price></price>
+        <price>500</price>
     </book>
 
     <book Id="5678">
-        <title></title>
+        <title>Zűrzavar a vonal végén</title>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>
         <amount-available>1</amount-available>
-        <price></price>
+        <price>4500</price>
     </book>
 </books>
