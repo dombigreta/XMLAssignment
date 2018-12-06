@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <books xmlns="books"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="books  book.xsd ">
+         xsi:schemaLocation="books  ../xml/book.xsd ">
     <book Id="1234">
         <title>Maradj velem</title>
         <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit</description>

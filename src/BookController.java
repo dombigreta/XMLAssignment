@@ -148,6 +148,7 @@ public class BookController {
         transformer.transform(input,result);
     }
 
+    /*helper methods*/
     private static void PrintNode(Node node)
     {
         System.out.println(node.getTextContent());
